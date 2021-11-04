@@ -32,4 +32,4 @@ public class Array {
 		System.out.println(totalPedro / notasPedro.length);
 	}
 
-}
+} 
