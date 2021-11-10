@@ -28,6 +28,6 @@ public class Lista {
 			System.out.println(nome);
 		}
 		
-	}
+	} 
 
 }
